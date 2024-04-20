@@ -1,8 +1,15 @@
 setup virtual envrionment
 https://www.youtube.com/watch?v=Z58KGp1t4Qw
 
-conda activate env_dash
-when in the directory, you can just pip install
+# To activate this environment, use
+#
+#     $ conda activate env_dash
+#
+# To deactivate an active environment, use
+#
+#     $ conda deactivate
+
+when in the directory, pip install not working?
 
 conda env remove -n env_dash
 conda env create -f mydash.yml

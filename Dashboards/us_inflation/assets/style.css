@@ -1,0 +1,23 @@
+.js-plotly-plot .plotly,
+.js-plotly-plot .plotly text {
+    font-family: 'Times New Roman', Times, serif !important;
+}
+
+.dash-spreadsheet {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 13px;
+    
+}
+
+.dash-spreadsheet th {
+    font-family: 'Times New Roman', Times, serif; /* Header cells */
+    background-color: #f9f9f9; /* Light grey background for headers */
+}
+
+.dash-spreadsheet td {
+    font-family: 'Times New Roman', Times, serif; /* Data cells */
+}
+
+.dash-spreadsheet input {
+    font-family: 'Times New Roman', Times, serif; /* Inputs within the table */
+}
