@@ -14,3 +14,7 @@ when in the directory, pip install not working?
 conda env remove -n env_dash
 conda env create -f mydash.yml
 versioning is extremely important
+
+-------revert back to repo-------
+git reset --hard <old-commit-id>
+git push -f <remote-name> <branch-name>
